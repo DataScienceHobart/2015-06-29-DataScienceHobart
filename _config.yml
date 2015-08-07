@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://mdsumner.github.io/2015-06-29-DataScienceHobart/"
-workshop_site   : "http://mdsumner.github.io/2015-06-29-DataScienceHobart/"
+workshop_repo   : "http://DataScienceHobart.github.io/2015-06-29-DataScienceHobart/"
+workshop_site   : "http://DataScienceHobart.github.io/2015-06-29-DataScienceHobart/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
